@@ -1,0 +1,186 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+.header{
+	border: 1px solid blue;
+	background: blue;
+	color: white;
+	font-size: 25px;
+	padding-bottom: 50px;
+	padding-top: 10px;
+
+}
+
+
+
+nav ul li{
+	display: inline-block;
+
+
+}
+
+.right{
+	float: right;
+	padding-left: 10px;
+}
+.book_btn{
+	float: right;
+	font-size: 40px;
+	padding: 27px;
+	color: green;
+}
+
+.tab1{
+	display: inline-block;
+	border: 1px solid orange;
+	margin-top: 50px;
+	margin-bottom: 50px;
+	padding: 30px;
+	text-align: center;
+	background: orange;
+	border-radius: 20px;
+}
+
+.tab1 h1{
+	font-family: broadway;
+	font-weight: bold;
+}
+
+.tab1 h3{
+	color: green;
+}
+.tab1 h5{
+	color: white;
+	font-family: calibri;
+
+}
+
+#tab_right{
+	float: right;
+	margin-right: 200px;
+}
+
+#tab_left{
+   margin-left: 200px;
+}
+
+#tab_right1{
+	float: right;
+	margin-right: 200px;
+}
+
+#tab_left1{
+   margin-left: 200px;
+}
+
+.arrive{
+	
+	padding: 50px;
+	font-size: 30px;
+	padding: 50px;
+	font-size: 30px;
+	border-radius: 10px;
+	float: left;
+	margin: 10px;
+	display: ;
+	
+	
+	
+	
+
+}
+
+.sidebar{
+	
+	float: right;
+}
+
+{
+	border:1px solid black;
+	background:;
+	padding: 50px;
+	color: red;
+	margin-top: 20px;
+}
+
+a{
+	text-decoration: none;
+	color: white;
+}
+
+.sec1 h3{
+     text-align: center;
+     font-size: 35px;
+     margin-top: 20px;
+}
+
+ .about_state{
+	text-align: center;
+	font-size: 20px;
+	margin-top: 20px;
+}
+
+.sect2 h3{
+     text-align: center;
+     font-size: 35px;
+     margin-top: 20px;
+
+}
+
+.top{
+	margin-left: 65px;
+	margin-top: 20px;
+	
+}
+
+.bottom{
+	margin-left: 65px;
+	margin-top: 20px;
+}
+
+.sect2 h5{
+	display: inline-block;
+	margin-top: 10px;
+}
+
+{box-sizing: border-box;}
+
+.form-container h1{
+	text-align: center;
+	margin-top: 20px;
+	margin-bottom: 20px;
+
+}
+
+label{
+	margin-left: 40px;
+}
+
+.btn{
+	text-align: center;
+	margin-left: 280px;
+	margin-top: 20px;
+}
+
+.col{
+	float: left;
+	width: 50%;
+}
+
+.sect:after{
+	content: "";
+	display: table;
+	clear: both;
+}
+
+#next{
+	margin-top: 100px;
+	font-size: 30px;
+}
+
+.form-container-c{
+	font-size: 30px;
+
+}
